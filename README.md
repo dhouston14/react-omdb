@@ -1,5 +1,5 @@
 Completed Code for HW by Dom...
-Changed again.
+Changed again. dunno why i cannot pull request master after fork and clone
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
